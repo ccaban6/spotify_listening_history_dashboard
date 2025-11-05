@@ -2,7 +2,7 @@
 
 ## Summary
 
-This interactive Tableau dashboard visualizes over ten years of my Spotify listening history, enriched with metadata from the Spotify API. It highlights how my music tastes have evolved over time and explores patterns in track popularity, completion behavior, and listening habits.
+This interactive Tableau dashboard visualizes over ten years (**200k+ rows**) of my Spotify listening history, enriched with metadata from the Spotify API. It highlights how my music tastes have evolved over time and explores patterns in track popularity, completion behavior, and listening habits. Although it's my own personal data, the project provides a unique opportunity to apply analytics to real-world user behavior data.
 
 [![Tableau Public](https://img.shields.io/badge/View_on-Tableau_Public-blue)](https://public.tableau.com/views/spotify_list_hist_v2/Dashboard4?:language=en-US&publish=yes)
 
